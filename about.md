@@ -12,4 +12,4 @@ Love program and do something.
 
 ### Contact me
 
-[email@domain.com](mailto:ouyangwulin@cmss.chinamobile.com)
+[ouyangwulin@cmss.chinamobile.com](mailto:ouyangwulin@cmss.chinamobile.com)
