@@ -1,7 +1,7 @@
 ---
-layout: default
-title:开篇感言 
-comments: true
+ layout: default
+ title: 开篇感言 
+ comments: true
 ---
 
 
